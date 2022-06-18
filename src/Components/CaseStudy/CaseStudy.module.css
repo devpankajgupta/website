@@ -1,0 +1,14 @@
+.grid2 {
+  display: grid;
+  grid-template-columns: 70% 1fr;
+  gap: 2rem;
+  padding: 2rem 2rem;
+}
+.red {
+  padding: 1rem;
+  background-color: aqua;
+}
+.yellow {
+  padding: 1rem;
+  background-color: rebeccapurple;
+}

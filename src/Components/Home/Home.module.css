@@ -1,0 +1,29 @@
+.aboutParent {
+  gap: 2rem;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.aboutTitle {
+  text-align: center;
+  font-size: 50px;
+  color: #c5a86a;
+}
+.aboutParent p {
+  font-size: 18px;
+  text-align: justify;
+  line-height: 30px;
+}
+.relative {
+  position: relative;
+}
+.relative h2 {
+  position: absolute;
+  top: 9%;
+  left: 40%;
+  background: #c5a86aa1;
+  padding: 12px;
+  font-size: 48px;
+  color: #fff;
+  border-radius: 20px;
+}

@@ -1,0 +1,17 @@
+.cPadding {
+  padding: 2rem;
+  height: 100vh;
+  /* background: red; */
+  /* background-image: url("./images/cpecial-menu-parallax.jpg"); */
+}
+
+.plan {
+  background: #ffffff;
+  padding: 4rem;
+  opacity: 0.8;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+}

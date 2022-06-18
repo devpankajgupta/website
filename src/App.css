@@ -1,0 +1,25 @@
+.active {
+  color: aquamarine;
+}
+.heading {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  color: black;
+  padding: 20px 0;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 37px;
+}
+.subHeading {
+  text-align: center;
+  font-family: "Cabin", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 19px;
+  color: #999999;
+  padding: 15px 0;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}

@@ -1,0 +1,40 @@
+.cPadding {
+  padding: 2rem;
+  height: 100vh;
+  /* background: red; */
+  /* background-image: url("./images/cpecial-menu-parallax.jpg"); */
+}
+
+.plan {
+  background: #ffffff;
+  padding: 4rem;
+  opacity: 0.8;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+}
+.card {
+  padding: 14px;
+  box-shadow: 1px 1px 1px 1px #efefef;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px, rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px;
+  background: #ffd094;
+}
+
+.card button {
+  background: white;
+  color: #e8870d;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card button:hover {
+  background: #e8870d;
+  color: white;
+  border: 1px solid #e8870d;
+}

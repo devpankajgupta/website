@@ -1,0 +1,42 @@
+.grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+.box {
+  background: #00000087;
+  /* opacity: 0.5; */
+  /* padding-left: 6rem; */
+  text-align: center;
+  padding: 4rem;
+  margin-left: 8rem;
+}
+
+.input6 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  padding: 0 1rem;
+}
+
+.input6 input {
+  padding: 10px;
+  background: white;
+  border: white;
+  /* padding-right: 24px; */
+  /* margin-right: 12px; */
+  margin-bottom: 1rem;
+}
+.footer {
+  background: #c5a86a;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.footer p {
+  font-size: 22px;
+}
+
+.footer h2 {
+  font-size: 40px;
+}

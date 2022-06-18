@@ -1,0 +1,38 @@
+.topNav {
+  display: grid;
+  grid-template-columns: 1fr 200px;
+  background: #c5a86a;
+  color: #fff;
+  padding: 0px 2rem;
+}
+
+.topNav ul {
+  display: inline-flex;
+  padding: 0;
+  list-style-type: none;
+}
+.topNav li {
+  display: flex;
+  align-items: center;
+  margin: 0 1rem;
+  gap: 0.5rem;
+}
+.navlink {
+  padding: 4px;
+  margin: 10px 2rem;
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+.nav {
+  background: #e8870d;
+  padding: 1rem;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+
+.textDiv {
+  margin: 2rem 0;
+}
